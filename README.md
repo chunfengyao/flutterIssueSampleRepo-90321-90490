@@ -1,5 +1,7 @@
 # issueSimpleProject
 simple project for flutter issue.
+[flutter #90321](https://github.com/flutter/flutter/issues/90321)
+[flutter #90490](https://github.com/flutter/flutter/issues/90490)
 
 # steps to reproduce.
 - `cd module_flutter/`
